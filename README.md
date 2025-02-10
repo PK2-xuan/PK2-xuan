@@ -1,16 +1,21 @@
-<h1 align="center"> 👋 Web Fullstack Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<!--inicio-->
+<h1 align="center"> 👋 FullStack Web Developer in training<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack%20Developer;3%2B%20years%20of%20coding%20experience;Sempe%20Avanti&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45">
 </p>
 
-<h1 align="center">Hi 👋, I'm Supun Nanayakkara</h1>
-<h3 align="center">A passionate Programmer from Sri lanka</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<h1 align="center">Hi 👋, I'm Xuan Camacho</h1>
+<h3 align="center">A passionate Programmer from Peru</h3>
+<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying Systems and Computer Engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuff 🛠️</p>
+
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
+ <img src="https://komarev.com/ghpvc/?username=PK2-xuan&label=Profile%20views&color=0e75b6&style=flat" alt="PK2-xuan" /> 
 </p>
+
+
+
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
@@ -61,8 +66,8 @@
 </p>
 
 #
-
+<!--
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=JayantGoel001&theme=react-dark&hide_border=true&area=true)
 
 ![3D Profile](https://github.com/JayantGoel001/JayantGoel001/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
-
+-->
