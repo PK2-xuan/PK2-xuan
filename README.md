@@ -31,7 +31,7 @@
 </br>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=PK2-xuan&theme=midnight-purple&show_icons=true&hide_border=true" alt="PK2-xuan"/>
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=PK2-xuan&theme=gotham&show_icons=true&hide_border=true" alt="PK2-xuan"/>
   <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=PK2-xuan&show_icons=true&theme=gotham&hide_border=true"/>
 </p>
 
