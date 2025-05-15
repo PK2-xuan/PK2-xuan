@@ -3,8 +3,8 @@
 <h1 align="center"> 👋 FullStack Web Developer in training<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack%20Developer;3%2B%20years%20of%20coding%20experience;Sempe%20Avanti&font=Pacifico&center=true&width=650&height=120&color=2aa889&vCenter=true&size=45">
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack%20Developer;3%2B%20years%20of%20coding%20experience;Sempe%20Avanti&font=Pacifico&center=true&width=650&height=120&color=9745f5&vCenter=true&size=45">
+
 
 <h1 align="center">Hi 👋, I'm Xuan Camacho</h1>
 <h3 align="center">A passionate Programmer from Peru</h3>
