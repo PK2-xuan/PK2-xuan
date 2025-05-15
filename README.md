@@ -47,6 +47,8 @@
 
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/PK2-xuan/count.svg" alt="PK2-xuan :: Visitor's Count" /></p>
+<img src="https://komarev.com/ghpvc/?username=PK2-xuan&label=Visitors&color=9745f5&style=flat" alt="PK2-xuan" />
+
 <!-- <img align="center" height="220px" src="https://github.com/PK2-xuan/Sky-nyX/blob/main/miRey.gif" alt="PK2-xuan" /> -->
 
 ![𝚝𝚘𝚙 𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=PK2-xuan&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
