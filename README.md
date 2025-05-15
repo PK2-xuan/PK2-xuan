@@ -47,7 +47,6 @@
 
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/PK2-xuan/count.svg" alt="PK2-xuan :: Visitor's Count" /></p>
-<img src="https://komarev.com/ghpvc/?username=PK2-xuan&label=Visitors&color=9745f5&style=flat" alt="PK2-xuan" />
 
 <!-- <img align="center" height="220px" src="https://github.com/PK2-xuan/Sky-nyX/blob/main/miRey.gif" alt="PK2-xuan" /> -->
 
@@ -55,7 +54,7 @@
 
 <p align="center">
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PK2-xuan&theme=dark&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PK2-xuan&hide_border=true&background=000000&currStreakLabel=9745f5&ring=9745f5&fire=9745f5&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=000000"/>
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
 </p>
 
