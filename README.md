@@ -54,7 +54,7 @@
 
 <p align="center">
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PK2-xuan&hide_border=true&background=000000&currStreakLabel=9745f5&ring=9745f5&fire=9745f5&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=000000"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PK2-xuan&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
 </p>
 
