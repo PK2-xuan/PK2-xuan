@@ -3,15 +3,15 @@
 <h1 align="center"> 👋 FullStack Web Developer in training<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack%20Developer;3%2B%20years%20of%20coding%20experience;Sempe%20Avanti&font=Pacifico&center=true&width=650&height=120&color=9745f5&vCenter=true&size=45">
-
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack%20Developer;3%2B%20years%20of%20coding%20experience;Sempe%20Avanti&font=Pacifico&center=true&width=650&height=120&color=2aa889&vCenter=true&size=45">
+</p>
 
 <h1 align="center">Hi 👋, I'm Xuan Camacho</h1>
 <h3 align="center">A passionate Programmer from Peru</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying Systems and Computer Engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuff 🛠️</p>
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=PK2-xuan&label=Profile%20views&color=2aa889&style=flat" alt="PK2-xuan" /> 
+<img src="https://komarev.com/ghpvc/?username=PK2-xuan&label=Profile%20views&color=9745f5&style=flat" alt="PK2-xuan" />
 </p>
 
 <div align="center">
@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=PK2-xuan&theme=theme=midnight-purple&hide_border=true"/>
+  <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=PK2-xuan&hide_border=true&title_color=9745f5&text_color=ffffff&bg_color=000000" />
   <img width="45%" align="left" src="https://camo.githubusercontent.com/9b2da5487c681aba581bb1bcceb4804f9f928aeb13885d04a87a50b404bc62ef/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966" alt="Sky nyX" />
 </p>
 
@@ -47,7 +47,6 @@
 
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/PK2-xuan/count.svg" alt="PK2-xuan :: Visitor's Count" /></p>
-<br/>
 <!-- <img align="center" height="220px" src="https://github.com/PK2-xuan/Sky-nyX/blob/main/miRey.gif" alt="PK2-xuan" /> -->
 
 ![𝚝𝚘𝚙 𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=PK2-xuan&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
