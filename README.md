@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=PK2-xuan&hide_border=true&title_color=9745f5&text_color=ffffff&bg_color=000000" />
+  <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=PK2-xuan&hide_border=true&title_color=9745f5&text_color=f3f3f3&bg_color=000000" />
   <img width="45%" align="left" src="https://camo.githubusercontent.com/9b2da5487c681aba581bb1bcceb4804f9f928aeb13885d04a87a50b404bc62ef/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966" alt="Sky nyX" />
 </p>
 
