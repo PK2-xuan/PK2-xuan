@@ -11,7 +11,7 @@
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying Systems and Computer Engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuff 🛠️</p>
 
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=PK2-xuan&label=Profile%20views&color=9745f5&style=flat" alt="PK2-xuan" />
+<img src="https://komarev.com/ghpvc/?username=PK2-xuan&label=Profile%20views&color=d8dee9&style=flat" alt="PK2-xuan" />
 </p>
 
 <div align="center">
@@ -32,7 +32,7 @@
 
 <p align="center">
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=PK2-xuan&theme=midnight-purple&show_icons=true&hide_border=true" alt="PK2-xuan"/>
-<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=PK2-xuan&show_icons=true&hide_border=true&title_color=9745f5&icon_color=9745f5&text_color=ffffff&bg_color=000000" alt="PK2-xuan"/>
+<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=PK2-xuan&show_icons=true&hide_border=true&title_color=81a1c1&icon_color=88c0d0&text_color=d8dee9&bg_color=2e3440" alt="PK2-xuan"/>
 </p>
 
 <p align="center">
