@@ -11,7 +11,7 @@
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying Systems and Computer Engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuff 🛠️</p>
 
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=PK2-xuan&label=Profile%20views&color=599cab&style=flat" alt="PK2-xuan" />
+<img src="https://komarev.com/ghpvc/?username=PK2-xuan&label=Profile%20views&color=2aa889&style=flat" alt="PK2-xuan" />
 </p>
 
 <div align="center">
@@ -31,12 +31,12 @@
 </br>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=PK2-xuan&theme=ghotam&show_icons=true&hide_border=true" alt="PK2-xuan"/>
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=PK2-xuan&theme=gotham&show_icons=true&hide_border=true" alt="PK2-xuan"/>
 <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=PK2-xuan&show_icons=true&hide_border=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1014" alt="PK2-xuan"/>
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=PK2-xuan&hide_border=true&title_color=2aa889&text_color=ffffff&bg_color=000000" />
+  <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=PK2-xuan&hide_border=true&title_color=2aa889&text_color=99d1ce&bg_color=0c1014" />
   <img width="45%" align="left" src="https://camo.githubusercontent.com/9b2da5487c681aba581bb1bcceb4804f9f928aeb13885d04a87a50b404bc62ef/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966" alt="Sky nyX" />
 </p>
 
