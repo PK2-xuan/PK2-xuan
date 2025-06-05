@@ -31,8 +31,8 @@
 </br>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=PK2-xuan&theme=midnight-purple&show_icons=true&hide_border=true" alt="PK2-xuan"/>
-<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=PK2-xuan&show_icons=true&hide_border=true&title_color=81a1c1&icon_color=88c0d0&text_color=d8dee9&bg_color=2e3440" alt="PK2-xuan"/>
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=PK2-xuan&theme=ghotam&show_icons=true&hide_border=true" alt="PK2-xuan"/>
+<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=PK2-xuan&show_icons=true&hide_border=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1014" alt="PK2-xuan"/>
 </p>
 
 <p align="center">
